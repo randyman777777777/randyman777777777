@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://femboiluver420.neocities.org/excuses">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,blender,c,cpp,cs,discord,bots,firebase,django,linux,powershell,py,replit,ruby,rust,stackoverflow,unity,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bash,blender,c,cpp,cs,discord,bots,firebase,django,java,linux,lua,powershell,py,replit,ruby,rust,stackoverflow,unity,vim,vscode" />
   </a>
 </p>
 
